@@ -1,0 +1,13 @@
+1.
+reverse-i-search: Search backward starting at the current line and moving ‘up’ through the history as necessary. This is an incremental search.
+
+2.
+we can find hidden files using find command in Linux or Unix.
+
+3.
+The biggest difference between the two Linux distributions is that Ubuntu is based on the Debian architecture while CentOS is forked from Red Hat Enterprise Linux.
+In Ubuntu, you can download DEB packages using the apt-get package manager. Meanwhile, in CentOS, you have to use the yum command to download and install RPM packages from the central repository
+
+
+4.Apache HTTP Server
+This web server is developed by Apache Software Foundation. It is an open-source, accessible web server available for almost all operating systems, including Windows, MACOS, Linus, FreeBSD, etc. Apache is one of the most popular web servers used around the globe.
